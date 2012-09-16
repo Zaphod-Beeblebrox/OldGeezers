@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/stat_sys_wifi_signal_4_fully</item>
+    <item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/stat_sys_wifi_signal_3_fully</item>
+    <item name="drawable/stat_sys_wifi_signal_2_fully">@drawable/stat_sys_wifi_signal_2_fully</item>
+    <item name="drawable/stat_sys_wifi_signal_1_fully">@drawable/stat_sys_wifi_signal_1_fully</item>
+    <item name="drawable/stat_sys_signal_0">@drawable/stat_sys_signal_0</item>
+    <item name="drawable/stat_sys_signal_1">@drawable/stat_sys_signal_1</item>
+    <item name="drawable/stat_sys_signal_2">@drawable/stat_sys_signal_2</item>
+    <item name="drawable/stat_sys_signal_3">@drawable/stat_sys_signal_3</item>
+    <item name="drawable/stat_sys_signal_4">@drawable/stat_sys_signal_4</item>
+    <item name="drawable/stat_sys_signal_4_fully">@drawable/stat_sys_signal_4_fully</item>
+    <item name="drawable/stat_sys_signal_3_fully">@drawable/stat_sys_signal_3_fully</item>
+    <item name="drawable/stat_sys_signal_2_fully">@drawable/stat_sys_signal_2_fully</item>
+    <item name="drawable/stat_sys_signal_1_fully">@drawable/stat_sys_signal_1_fully</item>
+    <item name="drawable/stat_sys_signal_0_fully">@drawable/stat_sys_signal_0_fully</item>
+    <item name="drawable/stat_sys_data_fully_connected_3g">@drawable/stat_sys_data_fully_connected_3g</item>
+    <item name="drawable/stat_sys_data_fully_connected_4g">@drawable/stat_sys_data_fully_connected_4g</item>
+    <item name="drawable/stat_sys_signal_flightmode">@drawable/stat_sys_signal_flightmode</item>
+    <item name="drawable/stat_sys_gps_acquiring">@drawable/stat_sys_gps_acquiring</item>
+    <item name="drawable/stat_sys_ringer_silent">@drawable/stat_sys_ringer_silent</item>
+    <item name="drawable/stat_sys_ringer_vibrate">@drawable/stat_sys_ringer_vibrate</item>
+    <item name="drawable/stat_sys_sync">@drawable/stat_sys_sync</item>
+    <item name="drawable/stat_sys_sync_error">@drawable/stat_sys_sync_error</item>
+    <item name="drawable/toggle_2g_1">@drawable/toggle_2g_1</item>
+    <item name="drawable/toggle_2g_1_off">@drawable/toggle_2g_1_off</item>
+    <item name="drawable/toggle_airplane">@drawable/toggle_airplane</item>
+    <item name="drawable/toggle_airplane_off">@drawable/toggle_airplane_off</item>
+    <item name="drawable/toggle_bluetooth">@drawable/toggle_bluetooth</item>
+    <item name="drawable/toggle_bluetooth_off">@drawable/toggle_bluetooth_off</item>
+    <item name="drawable/toggle_data">@drawable/toggle_data</item>
+    <item name="drawable/toggle_data_off">@drawable/toggle_data_off</item>
+    <item name="drawable/toggle_fcharge">@drawable/toggle_fcharge</item>
+    <item name="drawable/toggle_fcharge_off">@drawable/toggle_fcharge_off</item>
+    <item name="drawable/toggle_gps">@drawable/toggle_gps</item>
+    <item name="drawable/toggle_gps_off">@drawable/toggle_gps_off</item>
+    <item name="drawable/toggle_lte">@drawable/toggle_lte</item>
+    <item name="drawable/toggle_lte_off">@drawable/toggle_lte_off</item>
+    <item name="drawable/toggle_nfc">@drawable/toggle_nfc</item>
+    <item name="drawable/toggle_nfc_off">@drawable/toggle_nfc_off</item>
+    <item name="drawable/toggle_rotate">@drawable/toggle_rotate</item>
+    <item name="drawable/toggle_rotate_off">@drawable/toggle_rotate_off</item>
+    <item name="drawable/toggle_silence">@drawable/toggle_silence</item>
+    <item name="drawable/toggle_silence_off">@drawable/toggle_silence_off</item>
+    <item name="drawable/toggle_swagger">@drawable/toggle_swagger</item>
+    <item name="drawable/toggle_swagger_off">@drawable/toggle_swagger_off</item>
+    <item name="drawable/toggle_sync">@drawable/toggle_sync</item>
+    <item name="drawable/toggle_sync_off">@drawable/toggle_sync_off</item>
+    <item name="drawable/toggle_torch">@drawable/toggle_torch</item>
+    <item name="drawable/toggle_torch_off">@drawable/toggle_torch_off</item>
+    <item name="drawable/toggle_vibrate">@drawable/toggle_vibrate</item>
+    <item name="drawable/toggle_vibrate_off">@drawable/toggle_vibrate_off</item>
+    <item name="drawable/toggle_wifi">@drawable/toggle_wifi</item>
+    <item name="drawable/toggle_wifi_ap">@drawable/toggle_wifi_ap</item>
+    <item name="drawable/toggle_wifi_ap_off">@drawable/toggle_wifi_ap_off</item>
+    <item name="drawable/toggle_wifi_off">@drawable/toggle_wifi_off</item>
+    <item name="drawable/toggle_tether">@drawable/toggle_tether</item>
+    <item name="drawable/toggle_tether_off">@drawable/toggle_tether_off</item>
+</resource-redirections>
