@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OldGeezers" parent="@android:style/Theme" />
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Date" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.BatteryTextOnly" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="TextAppearance.StatusBar.BatteryTextOnly_Low" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+    <style name="TextAppearance.StatusBar.BatteryTextOnly_Plugged" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">22.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+</resources>
+    
