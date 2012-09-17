@@ -52,6 +52,8 @@
     <item name="drawable/stat_sys_ringer_vibrate">@drawable/stat_sys_ringer_vibrate</item>
     <item name="drawable/stat_sys_sync">@drawable/stat_sys_sync</item>
     <item name="drawable/stat_sys_sync_error">@drawable/stat_sys_sync_error</item>
+    <item name="drawable/stat_sys_data_bluetooth">@drawable/stat_sys_data_bluetooth</item>
+    <item name="drawable/stat_sys_data_bluetooth_connected">@drawable/stat_sys_data_bluetooth_connected</item>
     <item name="drawable/toggle_2g_1">@drawable/toggle_2g_1</item>
     <item name="drawable/toggle_2g_1_off">@drawable/toggle_2g_1_off</item>
     <item name="drawable/toggle_airplane">@drawable/toggle_airplane</item>
@@ -86,6 +88,7 @@
     <item name="drawable/toggle_wifi_off">@drawable/toggle_wifi_off</item>
     <item name="drawable/toggle_tether">@drawable/toggle_tether</item>
     <item name="drawable/toggle_tether_off">@drawable/toggle_tether_off</item>
+    <item name="bool/status_bar_alt_signal_layout">@bool/status_bar_alt_signal_layout</item>
     <item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
     <item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
     <item name="style/TextAppearance.StatusBar.BatteryTextOnly">@style/TextAppearance.StatusBar.BatteryTextOnly</item>
