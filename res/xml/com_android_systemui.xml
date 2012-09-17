@@ -20,11 +20,17 @@
     <item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/stat_sys_wifi_signal_3_fully</item>
     <item name="drawable/stat_sys_wifi_signal_2_fully">@drawable/stat_sys_wifi_signal_2_fully</item>
     <item name="drawable/stat_sys_wifi_signal_1_fully">@drawable/stat_sys_wifi_signal_1_fully</item>
+    <item name="drawable/stat_sys_wifi_signal_0">@drawable/stat_sys_wifi_signal_0</item>
+    <item name="drawable/stat_sys_wifi_signal_1">@drawable/stat_sys_wifi_signal_1</item>
+    <item name="drawable/stat_sys_wifi_signal_2">@drawable/stat_sys_wifi_signal_2</item>
+    <item name="drawable/stat_sys_wifi_signal_3">@drawable/stat_sys_wifi_signal_3</item>
+    <item name="drawable/stat_sys_wifi_signal_4">@drawable/stat_sys_wifi_signal_4</item>
     <item name="drawable/stat_sys_signal_0">@drawable/stat_sys_signal_0</item>
     <item name="drawable/stat_sys_signal_1">@drawable/stat_sys_signal_1</item>
     <item name="drawable/stat_sys_signal_2">@drawable/stat_sys_signal_2</item>
     <item name="drawable/stat_sys_signal_3">@drawable/stat_sys_signal_3</item>
     <item name="drawable/stat_sys_signal_4">@drawable/stat_sys_signal_4</item>
+    <item name="drawable/stat_sys_signal_null">@drawable/stat_sys_signal_null</item>
     <item name="drawable/stat_sys_signal_4_fully">@drawable/stat_sys_signal_4_fully</item>
     <item name="drawable/stat_sys_signal_3_fully">@drawable/stat_sys_signal_3_fully</item>
     <item name="drawable/stat_sys_signal_2_fully">@drawable/stat_sys_signal_2_fully</item>
@@ -32,6 +38,14 @@
     <item name="drawable/stat_sys_signal_0_fully">@drawable/stat_sys_signal_0_fully</item>
     <item name="drawable/stat_sys_data_fully_connected_3g">@drawable/stat_sys_data_fully_connected_3g</item>
     <item name="drawable/stat_sys_data_fully_connected_4g">@drawable/stat_sys_data_fully_connected_4g</item>
+    <item name="drawable/stat_sys_data_connected_3g">@drawable/stat_sys_data_connected_3g</item>
+    <item name="drawable/stat_sys_data_connected_4g">@drawable/stat_sys_data_connected_4g</item>
+    <item name="drawable/stat_sys_signal_in">@drawable/stat_sys_signal_in</item>
+    <item name="drawable/stat_sys_signal_inout">@drawable/stat_sys_signal_inout</item>
+    <item name="drawable/stat_sys_signal_out">@drawable/stat_sys_signal_out</item>
+    <item name="drawable/stat_sys_wifi_in">@drawable/stat_sys_wifi_in</item>
+    <item name="drawable/stat_sys_wifi_inout">@drawable/stat_sys_wifi_inout</item>
+    <item name="drawable/stat_sys_wifi_out">@drawable/stat_sys_wifi_out</item>
     <item name="drawable/stat_sys_signal_flightmode">@drawable/stat_sys_signal_flightmode</item>
     <item name="drawable/stat_sys_gps_acquiring">@drawable/stat_sys_gps_acquiring</item>
     <item name="drawable/stat_sys_ringer_silent">@drawable/stat_sys_ringer_silent</item>
@@ -72,4 +86,9 @@
     <item name="drawable/toggle_wifi_off">@drawable/toggle_wifi_off</item>
     <item name="drawable/toggle_tether">@drawable/toggle_tether</item>
     <item name="drawable/toggle_tether_off">@drawable/toggle_tether_off</item>
+    <item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
+    <item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
+    <item name="style/TextAppearance.StatusBar.BatteryTextOnly">@style/TextAppearance.StatusBar.BatteryTextOnly</item>
+    <item name="style/TextAppearance.StatusBar.BatteryTextOnly_Low">@style/TextAppearance.StatusBar.BatteryTextOnly_Low</item>
+    <item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
 </resource-redirections>
