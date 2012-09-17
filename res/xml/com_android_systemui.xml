@@ -94,4 +94,6 @@
     <item name="style/TextAppearance.StatusBar.BatteryTextOnly">@style/TextAppearance.StatusBar.BatteryTextOnly</item>
     <item name="style/TextAppearance.StatusBar.BatteryTextOnly_Low">@style/TextAppearance.StatusBar.BatteryTextOnly_Low</item>
     <item name="style/TextAppearance.StatusBar.BatteryTextOnly_Plugged">@style/TextAppearance.StatusBar.BatteryTextOnly_Plugged</item>
+    <item name="style/TextAppearance.StatusBar.WifiText">@style/TextAppearance.StatusBar.WifiText</item>
+    <item name="style/TextAppearance.StatusBar.SignalText">@style/TextAppearance.StatusBar.SignalText</item>
 </resource-redirections>
