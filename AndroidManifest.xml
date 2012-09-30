@@ -19,8 +19,11 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"
     package="com.AOKP.OldGeezers"
-    android:hasCode="false">
+    android:hasCode="false"
+    android:versionCode="1" android:versionName="1.0.1">
 
+    <application name="OldGeezers" android:hasCode="false" android:icon="@drawable/icon" android:label="OldGeezers">
+    </application>
     <!-- Make sure this theme APK only shows up on appropriate devices. -->
     <uses-feature android:name="com.tmobile.software.themes" />
 
